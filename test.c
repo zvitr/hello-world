@@ -1,8 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 
 int main(void)
 {
-	printf("Write to screen! \n");
+	char *str = "Zvit";
+	printf("Write to screen %S! \n", str);
 	return 0;
 }
