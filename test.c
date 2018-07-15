@@ -13,6 +13,7 @@ void str(void)
 	}
 }
 
+/* Return zero if all is ok */
 int main(void)
 {
 	char *str = "Zvit";
