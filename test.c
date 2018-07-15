@@ -1,3 +1,4 @@
+/* Adding comments is important */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
