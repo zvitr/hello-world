@@ -15,7 +15,7 @@ void str(void)
 
 int main(void)
 {
-	char *str = "Zvit";
+	char *str = "Zvi Traiger";
 	printf("Write to screen %S! \n", str);
 	return 0;
 }
